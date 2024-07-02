@@ -20,20 +20,29 @@
 
 -- Features of Projects User Module
 
-User Registration(The first-time user can register)
-Profile Management
-Request a Quote
-Ticketing System
-Change Password
+1.User Registration(The first-time user can register) 
+<br/>
+2.Profile Management
+<br/>
+3.Request a Quote
+<br/>
+4.Ticketing System
+<br/>
+5.Change Password
 
 -- Admin Panel
 
-Dynamic Dashboard
-Manage Users
-Manage Tickets
-Manage Quotes
-User Visit Graph
-Check User Access Logs
+1.Dynamic Dashboard
+<br/>
+2.Manage Users
+<br/>
+3.Manage Tickets
+<br/>
+4.Manage Quotes
+<br/>
+5.User Visit Graph
+<br/>
+6.Check User Access Logs
 
 ## Glimpse🚀
 
