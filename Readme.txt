@@ -1,39 +1,56 @@
-# Foobar
+<h1 align="center">
+             CRM Website
+</h1>
 
-CRM Website
-
-# Installation
-
-## How to run the Small CRM  Project
-1. Download the  zip file
-
-2. Extract the file and copy crm folder
-
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/html)
-
-4. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-5. Create a database with name crm
-
-6. Import crm.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/crm (frontend)
-
-8.Run the script http://localhost/crm/admin 
+ Developed a Website where customer can rise a ticket query.<br>
 
 
-##Credential for admin panel :
+# Tech Stack Used:
 
-Username: admin
-Password: admin
+<div align="left">
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="AJAX" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
+<img alt="JQUERY" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-##Credential for user panel :
+</div>
 
-Username: phpgurukulteam@gmail.com
-Password: Demo@123
-
-## Contributing
-
-## License
+## Structure Of The Project
 
 
+- Features of Projects User Module
+
+User Registration(The first-time user can register)
+Profile Management
+Request a Quote
+Ticketing System
+Change Password
+
+- Admin Panel
+
+Dynamic Dashboard
+Manage Users
+Manage Tickets
+Manage Quotes
+User Visit Graph
+Check User Access Log
+
+## Glimpse🚀
+
+### 1. Home Page
+![image](Readme-images1/HomePage.png)
+
+### 2. Gallery
+![image](Readme-images1/Gallery.png)
+
+### 3. Popular Doodles
+![image](Readme-images1/Popular.png)
+
+### 4. Customer Reviews
+![image](Readme-images1/CustomerReview.png)
+
+### 4. How it Works
+![image](Readme-images1/works.png)
+
+### 4. Contact Page
+![image](Readme-images1/Message.png)
