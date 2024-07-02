@@ -1,5 +1,5 @@
 <h1 align="center">
-             CRM Website
+CRM Website
 </h1>
 
  Developed a Website where customer can rise a ticket query.<br>
