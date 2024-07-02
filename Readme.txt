@@ -1,39 +1,34 @@
 <h1 align="center">
-CRM Website
+             Damn Doodle✍️🌈
 </h1>
 
- Developed a Website where customer can rise a ticket query.<br>
+ Developed a Website where customer can order customised Doodle for them.<br>
 
 
 # Tech Stack Used:
 
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="AJAX" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  
-<img alt="JQUERY" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </div>
 
 ## Structure Of The Project
 
 
-- Features of Projects User Module
+- Damn Doodle is a creative platform that brings you a delightful collection of imaginative doodles.
+-Home Page: Get started by diving into the world of Damn Doodle, where creativity knows no bounds.
 
-User Registration(The first-time user can register)
-Profile Management
-Request a Quote
-Ticketing System
-Change Password
+-Gallery: Immerse yourself in a diverse range of doodles, each telling its own unique story and sparking your imagination.
 
-- Admin Panel
+-Most Popular Doodles: Discover the doodles that have captured the hearts of our community and gained the most recognition.
 
-Dynamic Dashboard
-Manage Users
-Manage Tickets
-Manage Quotes
-User Visit Graph
-Check User Access Log
+-Customer Reviews: Read genuine feedback from our satisfied customers and join the conversation by sharing your own experiences.
+
+-Contact Us: Have questions, suggestions, or want to collaborate? Our simple contact guide will help you reach out to us effortlessly.
+
 
 ## Glimpse🚀
 
