@@ -47,19 +47,14 @@
 ## Glimpse🚀
 
 ### 1. Home Page
-![image](Readme-images1/HomePage.png)
+![image](https://github.com/sauravkumarverma25/CRM/assets/91608316/b43783af-382a-4cf8-993f-07da65353d3f)
 
-### 2. Gallery
-![image](Readme-images1/Gallery.png)
+### 2. User Registration Page
+![image](https://github.com/sauravkumarverma25/CRM/assets/91608316/9ec35666-26b3-4dd0-ae71-04f509e22d21)
 
-### 3. Popular Doodles
-![image](Readme-images1/Popular.png)
+### 3. User Dashboard
+![image](https://github.com/sauravkumarverma25/CRM/assets/91608316/e4a74075-f856-4934-b2da-f9fe172648a8)
 
-### 4. Customer Reviews
-![image](Readme-images1/CustomerReview.png)
+### 4. Admin Dashboard
+![image](https://github.com/sauravkumarverma25/CRM/assets/91608316/a47a157a-9822-40cc-af2a-9d8618540236)
 
-### 4. How it Works
-![image](Readme-images1/works.png)
-
-### 4. Contact Page
-![image](Readme-images1/Message.png)
